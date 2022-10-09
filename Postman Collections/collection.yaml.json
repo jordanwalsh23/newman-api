@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "6c82fb2f-eebc-4748-95a1-3ef174e715a7",
+		"name": "Newman API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"_postman_id": "318dc6e5-c3db-4529-9646-2a7e5c740e73",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
